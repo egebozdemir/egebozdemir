@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Msc prep class tasks
-- 👯 I’m looking to collaborate on OOP implementations and Info Sec related topics
+- 👯 I’m looking to collaborate on OOP and Info Sec related topics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egebozdemir&layout=compact)](https://github.com/egebozdemir/github-readme-stats)
 <!--
