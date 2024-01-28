@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Test Automation and CI/CD related topics as a business pro
+- 🔭 I’m currently working on Test Automation and CI/CD related topics 
 - 👯 I’m looking to collaborate on any project using design patterns in OOP
 - 📫 How to reach me: mege dot bozdemir at gmail dot com
 
