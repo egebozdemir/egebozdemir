@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Test Automation and CI/CD related topics as business pro
-- 👯 I’m looking to collaborate on any project fits to TDD (Test Driven Deployment) using design patterns in OOP (Object-Oriented Programming)
+- 🔭 I’m currently working on Test Automation and CI/CD related topics as a business pro
+- 👯 I’m looking to collaborate on any project fits to TDD (Test Driven Deployment) using design patterns in OOP
 - 📫 How to reach me: mege dot bozdemir at gmail dot com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egebozdemir&layout=compact)](https://github.com/egebozdemir/github-readme-stats)
