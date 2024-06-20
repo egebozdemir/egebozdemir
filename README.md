@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Test Automation and CI/CD related topics 
 - 👯 I’m looking to collaborate on any project using design patterns in OOP
-- 📫 How to reach me: mege dot bozdemir at gmail dot com
+- 📫 How to reach me: <mege.bozdemir@gmail.com>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egebozdemir&layout=compact)](https://github.com/egebozdemir/github-readme-stats)
