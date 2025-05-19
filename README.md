@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Test Automation and CI/CD related topics 
-- 👯 I’m looking to collaborate on any project using design patterns in OOP
-- 📫 How to reach me: <mege.bozdemir@gmail.com>
+- 🔭 Currently building my skills in Cloud & Data Engineering
+- 🌱 Proficient in Test Automation and CI/CD practices
+- 👯 Open to collaborating on Object-Oriented Programming (OOP) projects
+- 📫 Reach me at: [mege.bozdemir@gmail.com](mailto:mege.bozdemir@gmail.com)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egebozdemir&layout=compact)](https://github.com/egebozdemir/github-readme-stats)
