@@ -2,7 +2,7 @@
 
 - 🔭 Currently building my skills in Cloud & Data Engineering
 - 🌱 Proficient in Test Automation and CI/CD practices
-- 👯 Open to collaborating on Object-Oriented Programming (OOP) projects
+- 👯 Open to collaborating on any open-source projects
 - 📫 Reach me at: [mege.bozdemir@gmail.com](mailto:mege.bozdemir@gmail.com)
 
 <!--
