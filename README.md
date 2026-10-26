@@ -2,7 +2,7 @@
 
 - 🔭 Currently building my skills in Full-Stack Development
 - 🌱 Proficient in Test Automation and CI/CD practices
-- 👯 Open to collaborating on any open-source projects
+- 👯 Open to collaborate on open-source projects
 - 📫 Reach me at: [mege.bozdemir@gmail.com](mailto:mege.bozdemir@gmail.com)
 
 <!--
